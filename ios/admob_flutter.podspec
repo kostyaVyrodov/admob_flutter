@@ -18,6 +18,7 @@ A new flutter plugin project.
   s.dependency 'Firebase'
   s.dependency 'Firebase/Core'
   s.dependency 'Firebase/AdMob'
+  s.swift_version = '4.0'
 
   s.ios.deployment_target = '8.0'
   s.static_framework = true
